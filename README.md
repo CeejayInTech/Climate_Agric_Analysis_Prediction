@@ -1,46 +1,44 @@
 # Climate_Agric_Analysis_Prediction
 
-# Climate Change Impact & Agriculture Analysis
+## About the Dataset
 
-## About Dataset
-
-### Subtitle: Understanding and Utilizing Weather Data
+### Subtitle: Understanding and Utilising Weather Data
 
 ## Introduction:
 
-Climate data plays a crucial role in our daily lives and various industries, from agriculture to transportation and emergency preparedness. Understanding and effectively utilizing weather data can help individuals and organizations make informed decisions, improve safety, and optimize operations.
+Climate data is crucial in our daily lives and various industries, from agriculture to transportation and emergency preparedness. Understanding and effectively utilizing weather data can help individuals and organizations make informed decisions, improve safety, and optimize operations.
 
 ## Column Data:
 
 #### Year	: Year of the recorded info
 
-#### Country	: Country 
+#### Country: Country 
 
-#### Region	: Regions of recorded country.
+#### Region: Regions of recorded country.
 
-#### Crop_Type	: The Various types of crops used for the predictive Analysis.
+#### Crop_Type: The Various types of crops used for the predictive Analysis.
 
-#### Average_Temperature_C	: The average temperature of the regions of country, year.
+#### Average_Temperature_C	: The average temperature of the regions of the country, year.
 
-#### Total_Precipitation_mm	: The Total precipitation recorded of regions of a country, year.
+#### Total_Precipitation_mm	: The Total precipitation recorded for regions of a country, for a year.
 
 #### CO2_Emissions_MT	: The Carbon emissions in each region of a country, year.
 
-#### Crop_Yield_MT_per_HA	: The Amount of crop yiels by hectatre in a region of a country, by year.
+#### Crop_Yield_MT_per_HA	: The Amount of crop yields by hectare in a region of a country, by year.
 
 #### Extreme_Weather_Events	: the number of extreme weather events in a region of a country, by year.
 
-#### Irrigation_Access_%	: The Percentage of Irrigation Access on recorded crop type in a region, by year.
+#### Irrigation_Access_%: The Percentage of Irrigation Access on recorded crop type in a region, by year.
 
-#### Pesticide_Use_KG_per_HA	: The amount of Pesticide used in Kg by Hectatre.
+#### Pesticide_Use_KG_per_HA: The amount of Pesticide used in Kg per hectare.
 
-#### Fertilizer_Use_KG_per_HA	: The amount of Fertilizer used in Kg by Hectatre.
+#### Fertilizer_Use_KG_per_HA: The amount of fertiliser used in Kg per hectare.
 
-#### Soil_Health_Index	: The measure of the overall health and quality of of soil, assessing its physical, chemical and biological properties to improved crop yield.
+#### Soil_Health_Index: The measure of the overall health and quality of of soil, assessing its physical, chemical and biological properties to improved crop yield.
 
-#### Adaptation_Strategies	: The methods of adaptation strategies used to optimize yield and Soil health Index.
+#### Adaptation_Strategies: The methods of adaptation strategies used to optimize yield and the Soil health Index.
 
-#### Economic_Impact_Million_USD : The economic impact of yield in a region of a country by year.
+#### Economic_Impact_Million_USD: The economic impact of yield in a region of a country by year.
 
 ## Weather Data Sources: Kaggle
 
@@ -70,7 +68,7 @@ c. Renewable Energy: Wind and solar energy generation depend on weather data to 
 
 d. Disaster Preparedness: Weather data is vital for early warning systems and emergency response planning during hurricanes, floods, and other severe weather events.
 
-e. Tourism: Tour operators and travelers use weather forecasts to plan outdoor activities and make the most of their trips.
+e. Tourism: Tour operators and travellers use weather forecasts to plan outdoor activities and make the most of their trips.
 
 ### Challenges in Weather Data Analysis:
 
@@ -146,5 +144,5 @@ Update the analysis and dashboards with new data to keep insights relevant and a
 Share Findings:
 
 Prepare reports and presentations to communicate insights and recommendations to stakeholders, policymakers, and agricultural practitioners.
-Use visualizations to make complex data accessible and understandable.
+Use visualisations to make complex data accessible and understandable.
 By following these next steps, you can effectively leverage the insights from the analysis to make informed decisions and drive improvements in agricultural practices and policy.
